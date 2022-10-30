@@ -1,0 +1,19 @@
+.container-sm {
+  margin-top: 13% !important;
+  max-width: 500px;
+  
+}
+#email {
+  border: 0.1px solid;
+  width: 460px;
+}
+
+#password {
+  border: 0.1px solid;
+  width: 460px;
+}
+/* body {
+  background-color: beige;
+} */
+
+
